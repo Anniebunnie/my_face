@@ -1,0 +1,28 @@
+.container{
+	text-align: center;
+	margin-top: 100px;
+}
+
+img{
+	border:2px solid;
+	border-radius:25px;
+	width: 80%;
+	min-width: 300px;
+}
+
+h1{
+	position: center;
+}
+
+ul{
+	text-align: center;
+}
+
+ul li{
+	border-radius: 1em;
+	padding: .5em;
+}
+
+.contact{
+	text-align: center;	
+}
