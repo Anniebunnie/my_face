@@ -1,8 +1,6 @@
 require 'bundler/setup'
 Bundler.require(:default)
 
-require_relative 'config'
-
 
 get '/' do 
 	"Ann Kim"
